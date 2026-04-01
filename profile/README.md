@@ -1,14 +1,12 @@
-<!-- CiteDom organization profile — place this repo at github.com/<org>/.github -->
-
-<p align="center">
-  <a href="https://citedom.com">
-    <img src="./dashboard-example.png" alt="CiteDom Quick Analysis — AI Visibility Score, GEO-16, executive summary, and pillar breakdown" width="820" />
-  </a>
-</p>
-
 <p align="center">
   <strong>Quick Analysis</strong> · AI Visibility · GEO-16 · Executive summary · Pillar-level breakdown
 </p>
+
+<!-- <p align="center">
+  <a href="https://citedom.com">
+    <img src="./dashboard-example.png" alt="CiteDom Quick Analysis — AI Visibility Score, GEO-16, executive summary, and pillar breakdown" width="820" />
+  </a>
+</p> -->
 
 <p align="center">
   <a href="https://citedom.com"><img src="https://img.shields.io/badge/citedom.com-visit-0f172a?style=flat-square&labelColor=1e293b" alt="citedom.com" /></a>
