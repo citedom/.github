@@ -16,14 +16,14 @@
 
 <br />
 
-<h1 align="center">CiteDom</h1>
+<h1 align="center">Citedom</h1>
 
 <p align="center">
   <b>Help brands get cited by AI—not just ranked in traditional search.</b>
 </p>
 
 <p align="center">
-  <a href="https://citedom.com">CiteDom</a> builds tools for <b>Generative Engine Optimization (GEO)</b>—AEO / conversational SEO—so teams can see how ChatGPT, Perplexity, Google AI Overviews, and similar systems treat their content, and what to change.
+  <a href="https://citedom.com">Citedom</a> builds tools for <b>Generative Engine Optimization (GEO)</b>—AEO / conversational SEO—so teams can see how ChatGPT, Perplexity, Google AI Overviews, and similar systems treat their content, and what to change.
 </p>
 
 <br />
